@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(166, 180, 180);
+  width: 20vw;
+  height: 40vh;
+  margin-left: 300px;
+}
+.items{
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  margin-left: 300px;
+  margin-right: 700px;
+  background-color: antiquewhite;
+}
+.error{
+  background-color: orangered;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+}
